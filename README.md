@@ -1,3 +1,4 @@
 # planet-earth
 First repository for school
-I like :games:
+
+I drink a lot of :coffee:
